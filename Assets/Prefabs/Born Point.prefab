@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7918900369299626271}
   - component: {fileID: 8503798806541850979}
+  - component: {fileID: 4085033391972672822}
   m_Layer: 0
   m_Name: Born Point
   m_TagString: Untagged
@@ -84,3 +85,16 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &4085033391972672822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9088669633601144075}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6f64daa681638845bee02e3ddf34ce2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  humanPrefab: {fileID: 8876081847638252733, guid: c960e38624b7155499f962c04d62d2f0, type: 3}

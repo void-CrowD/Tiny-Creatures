@@ -45,11 +45,14 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: irrelevant
+  - name: behindground
     uniqueID: 671297617
     locked: 0
   - name: ground
     uniqueID: 3749600681
+    locked: 0
+  - name: infrontofground
+    uniqueID: 1591425495
     locked: 0
   - name: human
     uniqueID: 2938403361

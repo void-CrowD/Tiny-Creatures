@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "E:\\Unity Project\\Tiny Creatures\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|E:\\Unity Project\\Tiny Creatures\\assets\\scripts\\platformelement\\bornpointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformelement\\bornpointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|e:\\unity project\\tiny creatures\\assets\\scripts\\platformelement\\endpointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformelement\\endpointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|E:\\Unity Project\\Tiny Creatures\\assets\\scripts\\platformelement\\trapdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformelement\\trapdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|e:\\unity project\\tiny creatures\\assets\\scripts\\platformelement\\disposableorganbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|E:\\Unity Project\\Tiny Creatures\\assets\\scripts\\platformelement\\reusableorganbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformelement\\reusableorganbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|E:\\Unity Project\\Tiny Creatures\\assets\\scripts\\platformelement\\disposableorganbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformelement\\disposableorganbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|E:\\Unity Project\\Tiny Creatures\\assets\\scripts\\platformelement\\buttondetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformelement\\buttondetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|E:\\Unity Project\\Tiny Creatures\\assets\\scripts\\platformelement\\reusableorganbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformelement\\reusableorganbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +34,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EndPointController.cs",
+              "DocumentMoniker": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\EndPointController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformElement\\EndPointController.cs",
+              "ToolTip": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\EndPointController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformElement\\EndPointController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:03:19.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BornPointController.cs",
+              "DocumentMoniker": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\BornPointController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformElement\\BornPointController.cs",
+              "ToolTip": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\BornPointController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformElement\\BornPointController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:40:00.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TrapDoor.cs",
               "DocumentMoniker": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\TrapDoor.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformElement\\TrapDoor.cs",
               "ToolTip": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\TrapDoor.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlatformElement\\TrapDoor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T14:34:43.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T14:34:43.168Z"
             },
             {
               "$type": "Document",
@@ -55,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "DisposableOrganButton.cs",
               "DocumentMoniker": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\DisposableOrganButton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformElement\\DisposableOrganButton.cs",
@@ -63,12 +96,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlatformElement\\DisposableOrganButton.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T12:55:17.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T12:55:17.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ButtonDetection.cs",
               "DocumentMoniker": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\ButtonDetection.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformElement\\ButtonDetection.cs",
