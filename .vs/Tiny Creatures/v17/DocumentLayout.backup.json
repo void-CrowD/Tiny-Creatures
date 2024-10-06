@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity Project\\Tiny Creatures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|E:\\Unity Project\\Tiny Creatures\\assets\\scripts\\platformelement\\trapdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformelement\\trapdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|e:\\unity project\\tiny creatures\\assets\\scripts\\platformelement\\disposableorganbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformelement\\disposableorganbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|E:\\Unity Project\\Tiny Creatures\\assets\\scripts\\platformelement\\buttondetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformelement\\buttondetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|E:\\Unity Project\\Tiny Creatures\\assets\\scripts\\platformelement\\reusableorganbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD32E539-1D7B-1543-2BB0-7570C9615699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformelement\\reusableorganbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrapDoor.cs",
+              "DocumentMoniker": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\TrapDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformElement\\TrapDoor.cs",
+              "ToolTip": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\TrapDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformElement\\TrapDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:34:43.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReusableOrganButton.cs",
+              "DocumentMoniker": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\ReusableOrganButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformElement\\ReusableOrganButton.cs",
+              "ToolTip": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\ReusableOrganButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformElement\\ReusableOrganButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:26:26.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisposableOrganButton.cs",
+              "DocumentMoniker": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\DisposableOrganButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformElement\\DisposableOrganButton.cs",
+              "ToolTip": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\DisposableOrganButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformElement\\DisposableOrganButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:55:17.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonDetection.cs",
+              "DocumentMoniker": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\ButtonDetection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformElement\\ButtonDetection.cs",
+              "ToolTip": "E:\\Unity Project\\Tiny Creatures\\Assets\\Scripts\\PlatformElement\\ButtonDetection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformElement\\ButtonDetection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:39:16.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
